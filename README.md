@@ -1,2 +1,4 @@
 # hotsanBot
-slack bot
+Slack based hotsan bot!
+
+powered by python
