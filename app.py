@@ -5,7 +5,7 @@ from datetime import date
 from datetime import datetime, timedelta
 import requests
 
-token = "xoxb-118976894853-ypenVhWFgnlrfGmHXhrsImeq"
+token = "token"
 slackClient = SlackClient(token)
 
 def getdate(dateString):
